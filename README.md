@@ -1,4 +1,4 @@
-### Olá! Eu sou o Rafae! Bem-vindo ao meu perfil no Github! 👋
+### Olá! Eu sou o Rafael! Bem-vindo ao meu perfil no Github! 👋
 
 
 
@@ -19,7 +19,7 @@
     
 ## Certificados de C# e .NET
 
-##### **Total de horas aproximado:** 45 Horas
+##### **Total aproximado de horas de estudo:** 45 Horas
 
 
 | Nome do Curso - Apresentação do curso |Plataforma| Finalizado / Link para certificado
@@ -30,7 +30,7 @@
 
 ## Certificados de Java
 
-##### **Total de horas aproximado:** 58 Horas
+##### **Total aproximado de horas de estudo:** 58 Horas
 
 
 |Nome do Curso - Link para certificado|Plataforma| Finalizado
@@ -46,10 +46,10 @@
   
 ## Certificados de Git
 
-##### **Total de horas aproximado:** 
+##### **Total aproximado de horas de estudo:** 10 horas 
 
 |Nome do Curso - Link para certificado|Plataforma| Finalizado
 |:--- |:--- |:--- |
-|[Learn Git](https://www.codecademy.com/learn/learn-git)|Codecademy|
+|[Learn Git](https://www.codecademy.com/learn/learn-git)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/a8ab218d5950c29861635cc0bf12fd13)
   
 
