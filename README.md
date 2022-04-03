@@ -27,6 +27,44 @@
 |[Learn C#](https://www.codecademy.com/learn/learn-c-sharp)|CodeCademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/65f0ff88f4fc58e0536b3b51648dff24)
 |[Learn ASP.NET](https://www.codecademy.com/learn/learn-asp-net)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/6a4c3e274d5e0465254f0a2cf6052e44)
 |[Build Web Apps with ASP.NET](https://www.codecademy.com/learn/paths/build-web-apps-with-asp-net)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/5ec9a3897d4c940011f50142)
+  
+ ### Projetos em C# e .NET
+  
+  Bank API
+  https://github.com/rafael-pgm/BankAPI
+  
+  #### API Meus Filmes
+  
+  https://github.com/rafael-pgm/API-MeusFilmes
+  
+  ### Meu jogo de RPG
+  
+  https://github.com/rafael-pgm/Meu-Jogo-de-RPG  
+  
+  
+ ## Certificados de JavaScript
+
+##### **Total aproximado de horas de estudo:** 20 horas 
+
+|Nome do Curso - Link para certificado|Plataforma| Finalizado
+|:--- |:--- |:--- |
+|[Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/705dcb15de0da4dd9d9fc4f3274b430e)
+  
+## Certificados de SQL
+
+##### **Total aproximado de horas de estudo:** 20 horas 
+
+|Nome do Curso - Link para certificado|Plataforma| Finalizado
+|:--- |:--- |:--- |
+|[Learn SQL](https://www.codecademy.com/learn/learn-sql)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/042a4e5884e3eb6ea1f2a12be6abb851)
+  
+ ## Certificados de Git
+
+##### **Total aproximado de horas de estudo:** 10 horas 
+
+|Nome do Curso - Link para certificado|Plataforma| Finalizado
+|:--- |:--- |:--- |
+|[Learn Git](https://www.codecademy.com/learn/learn-git)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/a8ab218d5950c29861635cc0bf12fd13)
 
 ## Certificados de Java
 
@@ -44,12 +82,6 @@
 |[Java: Object-Oriented programming](https://www.codecademy.com/learn/java-object-oriented-programming)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/23a06f0af71448c0a2ed456d6191e11e)
 |[Java: Going Further with Classes and Methods Course](https://www.codecademy.com/learn/java-going-further-with-classes-and-methods)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/02c8c9f4eed7545e0b4cc37a785ae026)  
   
-## Certificados de Git
 
-##### **Total aproximado de horas de estudo:** 10 horas 
-
-|Nome do Curso - Link para certificado|Plataforma| Finalizado
-|:--- |:--- |:--- |
-|[Learn Git](https://www.codecademy.com/learn/learn-git)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/a8ab218d5950c29861635cc0bf12fd13)
   
 
