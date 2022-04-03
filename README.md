@@ -28,18 +28,13 @@
 |[Learn ASP.NET](https://www.codecademy.com/learn/learn-asp-net)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/6a4c3e274d5e0465254f0a2cf6052e44)
 |[Build Web Apps with ASP.NET](https://www.codecademy.com/learn/paths/build-web-apps-with-asp-net)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/5ec9a3897d4c940011f50142)
   
- ### Projetos em C# e .NET
+### Projetos em C# e .NET 
   
-  Bank API
-  https://github.com/rafael-pgm/BankAPI
+* Bank API : https://github.com/rafael-pgm/BankAPI
   
-  #### API Meus Filmes
+* API Meus Filmes : https://github.com/rafael-pgm/API-MeusFilmes
   
-  https://github.com/rafael-pgm/API-MeusFilmes
-  
-  ### Meu jogo de RPG
-  
-  https://github.com/rafael-pgm/Meu-Jogo-de-RPG  
+* Meu jogo de RPG : https://github.com/rafael-pgm/Meu-Jogo-de-RPG  
   
   
  ## Certificados de JavaScript
@@ -50,6 +45,13 @@
 |:--- |:--- |:--- |
 |[Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/705dcb15de0da4dd9d9fc4f3274b430e)
   
+### Projetos usando Javascipt, HTML e CSS  
+  
+  * Meu Jogo de naves: https://github.com/rafael-pgm/Meu-jogo-de-naves
+  
+  * Recriando a página inicial do Prime Video: https://github.com/rafael-pgm/Recriando-interface
+  
+  
 ## Certificados de SQL
 
 ##### **Total aproximado de horas de estudo:** 20 horas 
@@ -57,6 +59,10 @@
 |Nome do Curso - Link para certificado|Plataforma| Finalizado
 |:--- |:--- |:--- |
 |[Learn SQL](https://www.codecademy.com/learn/learn-sql)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/042a4e5884e3eb6ea1f2a12be6abb851)
+  
+### Scripts com comandos de SQL usados em projetos de estudos
+  
+* Scripts do projeto "Criando um gerenciador de espaçonaves do star wars com SQL Server + .NET" :  https://github.com/rafael-pgm/ScriptDeTabelas
   
  ## Certificados de Git
 
