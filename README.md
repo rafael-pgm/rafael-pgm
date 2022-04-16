@@ -5,8 +5,9 @@
 
 
 
-- 🔭 Realizar a transição de carreira para me tornar um desenvolvedor back-end em projetos C# e .NET.
-- 🌱 Estou estudando atualmente Git através do curso Learn Git do Codecademy.
+- Estou em processo de transição de carreira buscando me tornar um desenvolvedor Back-End.
+- Já concluí diversos cursos de tecnologia nas plataformas Codecademy, Digital Innovation One e Balta.io, alguns dos quais estão listados abaixo.
+- Finalizei alguns Bootcamps de C/.NET e Web Development na Digital Innovation One, tamém listados abaixo.
 
 
 <div align="center">
