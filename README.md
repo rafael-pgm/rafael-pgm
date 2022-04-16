@@ -19,11 +19,9 @@
     
 ## Certificados de C# e .NET
 
-##### **Total aproximado de horas de estudo:** 45 Horas
-
-
-| Nome do Curso - Apresentação do curso |Plataforma| Finalizado / Link para certificado
+| Nome do Curso - Apresentação do curso|Plataforma|Finalizado / Link para certificado
 |:--- |:--- |:--- |
+|[Fundamentos do C#](https://balta.io/cursos/fundamentos-csharp)|Balta.io|[:white_check_mark:](https://balta.io/certificados/f731b35f-20f5-4ccf-bb20-0da94a3aa77d)
 |[Learn C#](https://www.codecademy.com/learn/learn-c-sharp)|CodeCademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/65f0ff88f4fc58e0536b3b51648dff24)
 |[Learn ASP.NET](https://www.codecademy.com/learn/learn-asp-net)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/6a4c3e274d5e0465254f0a2cf6052e44)
 |[Build Web Apps with ASP.NET](https://www.codecademy.com/learn/paths/build-web-apps-with-asp-net)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/5ec9a3897d4c940011f50142)
@@ -37,11 +35,9 @@
 * Meu jogo de RPG : https://github.com/rafael-pgm/Meu-Jogo-de-RPG  
   
   
- ## Certificados de JavaScript
+## Certificados de JavaScript
 
-##### **Total aproximado de horas de estudo:** 20 horas 
-
-|Nome do Curso - Link para certificado|Plataforma| Finalizado
+|Nome do Curso - Apresentação do curso|Plataforma|Finalizado / Link para certificado
 |:--- |:--- |:--- |
 |[Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/705dcb15de0da4dd9d9fc4f3274b430e)
   
@@ -54,9 +50,7 @@
   
 ## Certificados de SQL
 
-##### **Total aproximado de horas de estudo:** 20 horas 
-
-|Nome do Curso - Link para certificado|Plataforma| Finalizado
+|Nome do Curso - Apresentação do curso|Plataforma|Finalizado /  Link para certificado
 |:--- |:--- |:--- |
 |[Learn SQL](https://www.codecademy.com/learn/learn-sql)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/042a4e5884e3eb6ea1f2a12be6abb851)
   
@@ -64,20 +58,15 @@
   
 * Scripts do projeto "Criando um gerenciador de espaçonaves do star wars com SQL Server + .NET" :  https://github.com/rafael-pgm/ScriptDeTabelas
   
- ## Certificados de Git
+## Certificados de Git
 
-##### **Total aproximado de horas de estudo:** 10 horas 
-
-|Nome do Curso - Link para certificado|Plataforma| Finalizado
+|Nome do Curso - Apresentação do curso|Plataforma| Finalizado / Link para certificado
 |:--- |:--- |:--- |
 |[Learn Git](https://www.codecademy.com/learn/learn-git)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/a8ab218d5950c29861635cc0bf12fd13)
 
 ## Certificados de Java
 
-##### **Total aproximado de horas de estudo:** 58 Horas
-
-
-|Nome do Curso - Link para certificado|Plataforma| Finalizado
+|Nome do Curso - Apresentação do curso|Plataforma| Finalizado / Link para certificado
 |:--- |:--- |:--- |
 |[Learn Java](https://www.codecademy.com/learn/learn-java)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/d3f89367b558583e361640f778191345)
 |[Loops and Arrays](https://www.codecademy.com/learn/java-loops-and-arrays)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/deed3d23a4d60bcf88d0879d1628d98d)
@@ -87,7 +76,21 @@
 |[Java: Conditionals and Control Flow](https://www.codecademy.com/learn/java-conditionals-and-control-flow)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/36081e84299196c1c909061be59c5cf9)  
 |[Java: Object-Oriented programming](https://www.codecademy.com/learn/java-object-oriented-programming)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/23a06f0af71448c0a2ed456d6191e11e)
 |[Java: Going Further with Classes and Methods Course](https://www.codecademy.com/learn/java-going-further-with-classes-and-methods)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/02c8c9f4eed7545e0b4cc37a785ae026)  
-  
 
+## Certificados de Bootcamps/Acelerações
+|Nome do Bootcamp |Plataforma| Finalizado / Link para certificado
+|:--- |:--- |:--- |
+|Bootcamp .NET Fundamentals|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/5BA1A329)
+|Bootcamp Take Blip Web Developer|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/6251F121)
+|Bootcamp Avanade CodeAnywhere .NET|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/281669E4)
+|Bootcamp NTT DATA New Talents #3 .NET|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/5BDA75A5)
+|Bootcamp Banco Carrefour Woman Developer|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/67A0E7B8)
+|Bootcamp LocalizaLabs .NET Developer #2|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/70DD1F2E)
+|Aceleração Global Dev Avanade #16 Avanade|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/D811AE96)
+|Aceleração Global Dev Capgemini #16 Capgemini|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/280998FF)
+
+
+  
+  
   
 
