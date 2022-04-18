@@ -6,8 +6,8 @@
 
 
 - Estou em processo de transição de carreira buscando me tornar um desenvolvedor Back-End.
-- Já concluí diversos cursos de tecnologia nas plataformas Codecademy, Digital Innovation One e Balta.io, alguns dos quais estão listados abaixo.
-- Finalizei alguns Bootcamps de C/.NET e Web Development na Digital Innovation One, tamém listados abaixo.
+- Já concluí diversos cursos de tecnologia nas plataformas Codecademy, Digital Innovation One e Balta.io, alguns dos quais estão listados abaixo. Para visualizar o certificado, basta clicar no respectivo :white_check_mark:
+- Finalizei alguns Bootcamps de C/.NET e Web Development na Digital Innovation One, também listados abaixo.
 
 
 <div align="center">
@@ -17,7 +17,20 @@
 </div>
   
   
-    
+## Certificados de Bootcamps/Acelerações
+  
+|Nome do Bootcamp |Plataforma| Finalizado / Link para certificado
+|:--- |:--- |:--- |
+|Bootcamp .NET Fundamentals|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/5BA1A329)
+|Bootcamp Take Blip Web Developer|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/6251F121)
+|Bootcamp Avanade CodeAnywhere .NET|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/281669E4)
+|Bootcamp NTT DATA New Talents #3 .NET|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/5BDA75A5)
+|Bootcamp Banco Carrefour Woman Developer|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/67A0E7B8)
+|Bootcamp LocalizaLabs .NET Developer #2|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/70DD1F2E)
+|Aceleração Global Dev Avanade #16 Avanade|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/D811AE96)
+|Aceleração Global Dev Capgemini #16 Capgemini|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/280998FF)  
+
+  
 ## Certificados de C# e .NET
 
 | Nome do Curso - Apresentação do curso|Plataforma|Finalizado / Link para certificado
@@ -28,6 +41,8 @@
 |[Build Web Apps with ASP.NET](https://www.codecademy.com/learn/paths/build-web-apps-with-asp-net)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/5ec9a3897d4c940011f50142)
   
 ### Projetos em C# e .NET 
+  
+* Online Bank : https://github.com/rafael-pgm/OnlineBank 
   
 * Bank API : https://github.com/rafael-pgm/BankAPI
   
@@ -77,21 +92,3 @@
 |[Java: Conditionals and Control Flow](https://www.codecademy.com/learn/java-conditionals-and-control-flow)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/36081e84299196c1c909061be59c5cf9)  
 |[Java: Object-Oriented programming](https://www.codecademy.com/learn/java-object-oriented-programming)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/23a06f0af71448c0a2ed456d6191e11e)
 |[Java: Going Further with Classes and Methods Course](https://www.codecademy.com/learn/java-going-further-with-classes-and-methods)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/02c8c9f4eed7545e0b4cc37a785ae026)  
-
-## Certificados de Bootcamps/Acelerações
-|Nome do Bootcamp |Plataforma| Finalizado / Link para certificado
-|:--- |:--- |:--- |
-|Bootcamp .NET Fundamentals|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/5BA1A329)
-|Bootcamp Take Blip Web Developer|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/6251F121)
-|Bootcamp Avanade CodeAnywhere .NET|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/281669E4)
-|Bootcamp NTT DATA New Talents #3 .NET|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/5BDA75A5)
-|Bootcamp Banco Carrefour Woman Developer|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/67A0E7B8)
-|Bootcamp LocalizaLabs .NET Developer #2|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/70DD1F2E)
-|Aceleração Global Dev Avanade #16 Avanade|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/D811AE96)
-|Aceleração Global Dev Capgemini #16 Capgemini|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/280998FF)
-
-
-  
-  
-  
-
