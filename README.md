@@ -17,10 +17,11 @@
 </div>
   
   
-## Certificados de Bootcamps/Acelerações
+## Certificados de Bootcamps/Acelerações/Cursos Multidisciplinares
   
 |Nome do Bootcamp |Plataforma| Finalizado / Link para certificado
 |:--- |:--- |:--- |
+|Desenvolvimento Back-end c/ Nodejs|[Zero ao Um](https://zeroaoum.herospark.co/formacao-back-end-com-nodejs)|[:white_check_mark:](https://edools-3-production.s3.amazonaws.com/org-101097/school-102202/certificates/enrollment-6981887/course-79606-orlyl.pdf)  
 |Bootcamp .NET Fundamentals|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/5BA1A329)
 |Bootcamp Take Blip Web Developer|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/6251F121)
 |Bootcamp Avanade CodeAnywhere .NET|[Digital Innovation One](https://www.dio.me/)|[:white_check_mark:](https://www.dio.me/certificate/281669E4)
@@ -51,15 +52,18 @@
 * Meu jogo de RPG : https://github.com/rafael-pgm/Meu-Jogo-de-RPG  
   
   
-## Certificados de JavaScript
+## Certificados de JavaScript e de Node.js
 
 |Nome do Curso - Apresentação do curso|Plataforma|Finalizado / Link para certificado
 |:--- |:--- |:--- |
 |[Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/705dcb15de0da4dd9d9fc4f3274b430e)
+|[Criando APIs com Node](https://balta.io/cursos/criando-apis-com-node)|Balta.io|[:white_check_mark:](https://balta.io/certificados/7cf5ec77-4a83-42cf-b6a7-f87e5bdd0915)  
   
 ### Projetos usando Javascipt, HTML e CSS  
   
   * Meu Jogo de naves: https://github.com/rafael-pgm/Meu-jogo-de-naves
+  
+  * Color Memory Game - https://github.com/rafael-pgm/Color-Memory-Game
   
   * Recriando a página inicial do Prime Video: https://github.com/rafael-pgm/Recriando-interface
   
@@ -71,6 +75,8 @@
 |[Learn SQL](https://www.codecademy.com/learn/learn-sql)|Codecademy|[:white_check_mark:](https://www.codecademy.com/profiles/rafaeldeFreitas8466922550/certificates/042a4e5884e3eb6ea1f2a12be6abb851)
   
 ### Scripts com comandos de SQL usados em projetos de estudos
+  
+* Comandos de tratamento de dados de jogos da Série A do Campeonato Brasileiro : https://github.com/rafael-pgm/Dados-de-jogos-do-Campeonato-Brasileiro
   
 * Scripts do projeto "Criando um gerenciador de espaçonaves do star wars com SQL Server + .NET" :  https://github.com/rafael-pgm/ScriptDeTabelas
   
